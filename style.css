@@ -50,19 +50,45 @@ table {
 
 /* Add Custom Style Below... */
 
-h1 {
-  font-size: 2em;
-  color: white;
-  margin-top: 20px;
-  margin-left: 20px;
-  margin-right: 20px;
-  padding-bottom: 0.25em;
+.wrapper {
+
+  margin: 0 auto;
+
+}
+
+.image-khalid {
+width: 375px;
+margin-left: 20px;
 
 
 }
 
-p {
-  font-size: 1em;
+.image-bleach {
+width: 375px;
+height: auto;
+background-image: url(img/Bleach.jpg);
+background-size: contain;
+background-repeat: no-repeat;
+
+}
+
+
+
+h1 {
+  font-size: 3.5em;
+  color: white;
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 10px;
+  padding-bottom: 0.5em;
+  font: Bebas;
+
+
+
+}
+
+.paragraph {
+  font-size: 1.5em;
   color: grey;
   margin-left: 20px;
   margin top:40px;
