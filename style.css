@@ -57,31 +57,27 @@ table {
 }
 
 .image-khalid {
-width: 375px;
-margin-left: 20px;
+display: block;
+width: 360px;
+margin-left: auto;
+margin-right: auto;
+padding-top: : 2em;
+padding-bottom: 2em;
 
 
-}
-
-.image-bleach {
-width: 375px;
-height: auto;
-background-image: url(img/Bleach.jpg);
-background-size: contain;
-background-repeat: no-repeat;
 
 }
-
 
 
 h1 {
-  font-size: 3.5em;
+  font-size: 4.6em;
+  text-align: center;
+  font-family: 'Bebas Neue', cursive;
   color: white;
   margin-top: 20px;
-  margin-left: 20px;
-  margin-right: 10px;
+  margin-left: auto;
+  margin-right: auto;
   padding-bottom: 0.5em;
-  font: Bebas;
 
 
 
@@ -89,12 +85,13 @@ h1 {
 
 .paragraph {
   font-size: 1.5em;
+  text-align: justify;
+  font-family: 'Montserrat', sans-serif;
   color: grey;
   margin-left: 20px;
-  margin top:40px;
+  margin top:20px;
   margin-right: 20px;
   padding-bottom: 0.35em
-
 
 
 }
