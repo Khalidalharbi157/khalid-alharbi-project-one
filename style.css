@@ -51,5 +51,26 @@ table {
 /* Add Custom Style Below... */
 
 h1 {
-  font-size: 6em;
+  font-size: 2em;
+  color: white;
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding-bottom: 0.25em;
+
+
 }
+
+p {
+  font-size: 1em;
+  color: grey;
+  margin-left: 20px;
+  margin top:40px;
+  margin-right: 20px;
+  padding-bottom: 0.35em
+
+
+
+}
+
+body {background-color: black;}
