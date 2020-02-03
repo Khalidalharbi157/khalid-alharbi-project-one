@@ -1,30 +1,48 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <title>Khalid Alharbi: Background and Ambitions</title>
-  <link rel="stylesheet" href="screen.css"  />
-</head>
-<body>
-  <h1>Khalid Alharbi: Background and Ambitions</h1>
+/* http://meyerweb.com/eric/tools/css/reset/
+   v2.0 | 20110126
+   License: none (public domain)
+*/
 
-
-<<p>
-  I'm a 4th year architecture student, and I am learning web design for the first time.
-  In the architecture realm, I'm interested in fabrication, small details, and sustainble design.
-  Also, being in the architecture program I got to learn woodworking in the shop, and I like
-  to build my own furniture.
-</p>
-<<p>
-  Outside of architecture, I'm passionate about photography, analog photography specifically.
-  I like to try out vintage cameras, shooting film rolls, and developing them myself. I enjoy
-  the extensive long process of making a single image, and it helps me think about my work very differently.
-  Recently, I've got into making music and sound with analog modular synthesizers. The complexity of turning
-  frequencies and voltages into beautiful melodies is something that I have been experminting with.
-</p>
-<<p>
-I admire to have a very versatile career in different realms: architecture, design, furniture, exhibition,
-photography, music, etc.
-<<p>
-</body>
-</html>
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
