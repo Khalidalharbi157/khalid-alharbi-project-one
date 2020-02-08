@@ -7,16 +7,19 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 /* Begin site styles... */
 
 
-body {background-color: black;}
+body {
+  background-color: black;
+}
 
 
-.image-khalid {
-display: block;
-width: 360px;
-margin-left: auto;
-margin-right: auto;
-padding-top: : 2em;
-padding-bottom: 3em;
+  .image-khalid {
+  display: block;
+  width: 100%;
+  max-width: 700px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: : 2em;
+  padding-bottom: 3em;
 }
 
 
@@ -36,9 +39,10 @@ p {
   font-size: 1.5em;
   text-align: justify;
   font-family: 'Montserrat', sans-serif;
-  color: grey;
-  margin-left: 20px;
-  margin top:20px;
-  margin-right: 20px;
-  padding-bottom: 0.35em
+  color: DARKGRAY;
+  width: 92%;
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 2em;
 }
